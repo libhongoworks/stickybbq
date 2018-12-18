@@ -1,0 +1,19 @@
+div#pageBody {
+    height: 100vh;
+    max-width: 100vw;
+    background-color: black;
+    font-family: "Anton";
+    font-size: 1.5rem;
+}
+
+nav.navbar {
+    background-color: black;
+}
+
+div.d-flex.justify-content-end {
+    width: 100%;
+}
+
+a.nav-link {
+    color: #F37024 !important;
+}
